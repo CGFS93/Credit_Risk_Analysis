@@ -13,6 +13,7 @@ Evaluate the performance of these models and make a recommendation on whether th
 
 ## Resources
 **Data Source:** LoanStats_2019Q1.csv
+
 **Software:** Python, Conda, Jupyter.
 
 # Results:
